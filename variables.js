@@ -1,0 +1,10 @@
+let gameName
+let aboutGame
+let versionGame
+let mainCharacter
+let gameDev
+let jS
+let versionJs
+let defaultMap
+let devSite
+let interfaceLang
